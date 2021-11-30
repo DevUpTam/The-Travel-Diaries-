@@ -1,0 +1,40 @@
+h1{
+	color: ghostwhite;
+	font-size: 160px;
+	text-align: center;
+	font-family: 'Shalimar',cursive;
+	font-weight: 100;
+	padding: 50px;
+}
+
+
+h2{
+	color: ghostwhite;
+	font-size:50px;
+	text-align: center;
+	font-family: 'Petemoss', cursive;			
+	font-weight: 70;
+}
+
+
+h3{
+	text-align: center;
+	color: ghostwhite;
+	font-family: 'Shalimar',cursive;
+	font-size: 30px;
+	font-weight: 70;
+}
+
+p{
+	text-align: center;
+	color: ghostwhite;
+	font-family: 'Shalimar',cursive;
+	font-size: 30px;
+	font-weight: 70;
+}
+
+hr{
+	border: 1px solid white;
+	width: 100%;
+
+}
